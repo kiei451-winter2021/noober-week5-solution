@@ -1,5 +1,3 @@
-
-
 function levelOfService(ride) {
   let levelOfService
   if (ride.length > 1) {
